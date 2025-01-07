@@ -4,7 +4,7 @@
 <p>
   🏥 <a href="https://www.notion.so/0bc5e322b285481cae629ccc82f72dd2?pvs=4">비대면 진료 서비스 프로젝트</a><br>
   🤓 <a href="https://www.notion.so/PROPASS-13ecd77434a68029b91bf6fb75e406dc?pvs=4">[PROPASS] 자격증 관리 웹페이지</a><br>
-  🗺️ <a href="https://www.notion.so/Adventure-Log-171cd77434a680588676dc542321bd5c?pvs=4">[AdventureLog] 랜덤 미션 수행 앱 </a><br>
+  🗺️ <a href="https://github.com/pyqvv/Adventure_Log?tab=readme-ov-file#adventure_log">[AdventureLog] 랜덤 미션 수행 앱 </a><br>
 </p>
 
 <!--

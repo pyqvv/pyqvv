@@ -48,9 +48,9 @@
 - 금융 학습과 모의 투자를 연결해 청소년이 금융상품을 비교하고 판단하도록 돕는 서비스입니다.
 - 예·적금, 채권, 주식, 펀드 상품 조회와 모의 투자 포트폴리오 API를 개발했습니다.
 - 매수·매도, 평가액, 수수료·증권거래세·이자소득세 계산과 자산 이벤트 처리 로직을 구현했습니다.
-- 요구사항·기능 명세와 ERD를 교차 검토하고, 프론트엔드 연동 검증과 최종 QA에 참여했습니다.
+- 금융감독원 Finlife, 토스증권 Open API와 공공데이터포털을 조사해 서비스에 필요한 데이터를 선별하고 기능 구현에 활용했습니다.
 
-**Tech:** Java 17, Spring Framework 5.3, MyBatis, MySQL, JUnit 5, Mockito, Gradle
+**Tech:** Java 17, Spring Framework 5.3, MyBatis, MySQL
 
 [프로젝트 상세 보기](https://arrow-point-ec6.notion.site/227cd77434a68305a83901cc00d4d381)
 
@@ -101,8 +101,6 @@
   JavaScript, Vue, Java, Spring Framework, MySQL 기반 웹 개발 교육 · 약 300명 중 1단위기간 우수훈련생 20명 선정
 - **건국대학교 캠퍼스타운 학생 창업팀** `2025.05–2026.02`  
   서비스 기획·개발, 사용자 인터뷰, 콘텐츠 제작 및 SNS 운영
-- **Google AI Essentials** `2025.09`  
-  온라인 교육 이수
 
 ## 🏆 Awards & Certifications
 

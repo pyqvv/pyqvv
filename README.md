@@ -1,18 +1,10 @@
-<div align="center">
-
-# 신서영 | Full-stack Developer
-
-[Portfolio](https://pyqw.notion.site/3decd77434a68090be56c2377e513f4a) · [GitHub](https://github.com/pyqvv) · [Email](mailto:pyqw_@naver.com)
-
-</div>
-
-## 👋 About Me
+## About Me
 
 - 누적 가입자 887명, 유료 사용자 464명, 결제 전환율 52.3%를 기록한 서비스의 React 프론트엔드 구현을 담당했습니다.
 - Spring MVC, MyBatis, MySQL을 활용해 API와 데이터 모델, 비즈니스 로직을 직접 설계하고 구현했습니다.
 - 문제의 원인과 설계 결정의 이유를 기록하며, 기능 구현부터 API 연동 검증과 사용자 화면 점검까지 서비스의 완성도를 높입니다.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Database
 
@@ -37,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 💰 FirstFolio — 배우고 경험하는 고등학생 금융 교육 서비스
 
@@ -50,7 +42,7 @@
 
 **Tech:** Java 17, Spring Framework 5.3, MyBatis, MySQL
 
-[프로젝트 상세 보기](https://arrow-point-ec6.notion.site/227cd77434a68305a83901cc00d4d381)
+[프로젝트 상세 보기](https://pyqw.notion.site/227cd77434a68305a83901cc00d4d381)
 
 ---
 
@@ -65,7 +57,7 @@
 
 **Tech:** React, JavaScript, Spring MVC, MyBatis, MySQL, Swagger
 
-[프로젝트 상세 보기](https://arrow-point-ec6.notion.site/v2-69bcd77434a6821c8ebe81cc5b15d588)
+[프로젝트 상세 보기](https://pyqw.notion.site/v2-69bcd77434a6821c8ebe81cc5b15d588)
 
 ---
 
@@ -80,27 +72,27 @@
 
 **Tech:** React, JavaScript, Axios
 
-[프로젝트 상세 보기](https://arrow-point-ec6.notion.site/Billit-67ccd77434a68362ad94813bb8580fe4)
+[프로젝트 상세 보기](https://pyqw.notion.site/Billit-67ccd77434a68362ad94813bb8580fe4)
 
 ## 🧩 Other Projects
 
 | Project | Period | Role & Contribution | Tech |
 |---|---:|---|---|
-| [똑딱](https://arrow-point-ec6.notion.site/TTokTTak-2e2cd77434a6831fbe46015929a2cb6d) | 2026.04 | 게이미피케이션 기획·로직 설계, 소비 데이터 시각화, 문서화 | Vue 3, Pinia, Axios |
-| [EcoPet](https://arrow-point-ec6.notion.site/Eco-Pet-510cd77434a6825d888401fa05571b1a) | 2025.12–2026.02 | 서비스 기획, UI/UX 설계, React 프론트엔드 구현 | React, JavaScript |
-| [바로로](https://arrow-point-ec6.notion.site/7f9cd77434a683a89e52816e5a3132ac) | 2025.03–2025.06 | 팀장, 일정·문서 관리, UI/UX 설계, 전체 프론트엔드 | React, Axios, CSS |
-| [Billit App](https://arrow-point-ec6.notion.site/Billit-e09cd77434a6829b80528108852ea56f) | 2025.01–2025.02 | UI/UX 설계, Flutter 앱 개발 | Flutter, Dart |
-| [PROPASS](https://arrow-point-ec6.notion.site/PROPASS-fcccd77434a682debcb0815575d9c244) | 2024.09–2024.12 | 팀장, 프론트엔드, 회원·자격증 추천 백엔드 로직 | React, Node.js, Oracle DB |
-| [비대면 진료 서비스](https://arrow-point-ec6.notion.site/f77cd77434a68264bc8a01682613cc28) | 2024.04–2024.10 | UI/UX 설계, React 프론트엔드, API 연동 | React, Axios, AWS S3 |
+| [똑딱](https://pyqw.notion.site/TTokTTak-2e2cd77434a6831fbe46015929a2cb6d) | 2026.04 | 게이미피케이션 기획·로직 설계, 소비 데이터 시각화, 문서화 | Vue 3, Pinia, Axios |
+| [EcoPet](https://pyqw.notion.site/Eco-Pet-510cd77434a6825d888401fa05571b1a) | 2025.12–2026.02 | 서비스 기획, UI/UX 설계, React 프론트엔드 구현 | React, JavaScript |
+| [바로로](https://pyqw.notion.site/7f9cd77434a683a89e52816e5a3132ac) | 2025.03–2025.06 | 팀장, 일정·문서 관리, UI/UX 설계, 전체 프론트엔드 | React, Axios, CSS |
+| [Billit App](https://pyqw.notion.site/Billit-e09cd77434a6829b80528108852ea56f) | 2025.01–2025.02 | UI/UX 설계, Flutter 앱 개발 | Flutter, Dart |
+| [PROPASS](https://pyqw.notion.site/PROPASS-fcccd77434a682debcb0815575d9c244) | 2024.09–2024.12 | 팀장, 프론트엔드, 회원·자격증 추천 백엔드 로직 | React, Node.js, Oracle DB |
+| [비대면 진료 서비스](https://pyqw.notion.site/f77cd77434a68264bc8a01682613cc28) | 2024.04–2024.10 | UI/UX 설계, React 프론트엔드, API 연동 | React, Axios, AWS S3 |
 
-## 🌱 Experience & Education
+## Experience & Education
 
 - **KB국민은행 IT’s Your Life 7기** `2026.03–2026.08`  
   JavaScript, Vue, Java, Spring Framework, MySQL 기반 웹 개발 교육 · 약 300명 중 1단위기간 우수훈련생 20명 선정
 - **건국대학교 캠퍼스타운 학생 창업팀** `2025.05–2026.02`  
   서비스 기획, UI/UX 설계, React기반 프론트엔드 개발, SNS 콘텐츠 제작 및 운영
 
-## 🏆 Awards & Certifications
+## Awards & Certifications
 
 ### Awards
 

@@ -88,7 +88,7 @@
 ## Experience & Education
 
 - **KB국민은행 IT’s Your Life 7기** `2026.03–2026.08`  
-  JavaScript, Vue, Java, Spring Framework, MySQL 기반 웹 개발 교육 · 약 300명 중 1단위기간 우수훈련생 20명 선정
+  JavaScript, Vue, Java, Spring Framework, MySQL 기반 웹 개발 교육 · 약 300명 중 1단위기간 우수훈련생(20명) 선정
 - **건국대학교 캠퍼스타운 학생 창업팀** `2025.05–2026.02`  
   서비스 기획, UI/UX 설계, React기반 프론트엔드 개발, SNS 콘텐츠 제작 및 운영
 
@@ -102,7 +102,7 @@
 
 ### Certifications
 
-- ADsP `2026.11`
+- 데이터분석준전문가(ADsP) `2026.11`
 - TOEIC Speaking IH `2026.09`
 - 정보처리기사 `2025.12`
 - SQL 개발자(SQLD) `2025.12`
